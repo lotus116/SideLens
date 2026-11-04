@@ -1,0 +1,6 @@
+interface:
+  display_name: "SideLens · 旁见"
+  short_description: "Review shared assumptions and the next decision"
+  default_prompt: "使用 $sidelens 审视当前讨论的目标、证据和下一步决定。"
+policy:
+  allow_implicit_invocation: true
